@@ -3,8 +3,10 @@ After you zip the directory with all the datas you can use the python code to en
 Installing the pyaes: 
   pip install pyaes
 
+
 The command to zip the directory with password:
 
   zip -r re directory.zip directory/
+
 
 Here we are considering the directory is named "directory"
