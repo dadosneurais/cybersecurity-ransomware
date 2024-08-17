@@ -4,6 +4,7 @@ Installing the pyaes:
   pip install pyaes
 
 The command to zip the directory with password:
+
   zip -r re directory.zip directory/
 
 Here we are considering the directory is named "directory"
